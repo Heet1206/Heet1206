@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Heet Kalathiya 👋
 
-<!--
-**Heet1206/Heet1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | Data Analytics & AI Student
 
-Here are some ideas to get you started:
+I'm an M.Sc. IT (Data Analytics & AI) student interested in building
+modern web applications and solving real-world problems using data and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Frontend Developer
+- ⚛️ Learning React.js
+- 🐍 Python for Data Analytics & Machine Learning
+- 🗄️ SQL
+- 📊 Power BI
+- 🤖 Machine Learning
+- 🌐 Building responsive web applications
+- 📚 Continuously learning new technologies
+
+## 🛠️ Skills
+
+### Frontend
+HTML5 • CSS3 • JavaScript • Bootstrap • React.js
+
+### Programming
+Python • JavaScript
+
+### Data & AI
+NumPy • Pandas • Scikit-learn • Machine Learning
+
+### Database
+MySQL • SQL
+
+### Tools
+Git • GitHub • VS Code • Power BI
+
+## 📌 Featured Projects
+
+### 💪 Fitness Admin Panel
+React.js based admin dashboard for managing fitness data.
+
+**Tech:** React.js, JavaScript, CSS, REST API
+
+### 🏨 Hotel Booking Website
+Responsive hotel booking platform with frontend, admin panel and backend.
+
+**Tech:** HTML, CSS, JavaScript, React.js, Laravel, MySQL
+
+### 📊 Data Analytics Projects
+Data analysis and visualization projects using Python, Pandas and Power BI.
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_LINK
+- Portfolio: YOUR_PORTFOLIO_LINK
+- GitHub: YOUR_GITHUB_LINK
