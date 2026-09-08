@@ -50,6 +50,6 @@ Data analysis and visualization projects using Python, Pandas and Power BI.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_LINK
-- Portfolio: YOUR_PORTFOLIO_LINK
-- GitHub: YOUR_GITHUB_LINK
+- LinkedIn: [YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/heet-kalathiya-865517268/)
+- Portfolio: [YOUR_PORTFOLIO_LINK](https://heet12portfolio.vercel.app/)
+- GitHub: [YOUR_GITHUB_LINK](https://github.com/Heet1206)
